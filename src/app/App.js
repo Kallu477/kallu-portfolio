@@ -7,6 +7,7 @@ import {
 import withRouter from "../hooks/withRouter";
 import AppRoutes from "./routes";
 import Headermain from "../header";
+import Footer from "../footer";
 // import AnimatedCursor  from "../hooks/AnimatedCursor";
 import "./App.css";
 
@@ -25,6 +26,7 @@ export default function App() {
       <ScrollToTop>
         <Headermain />
         <AppRoutes />
+        <Footer />
       </ScrollToTop>
     </Router>
   );
