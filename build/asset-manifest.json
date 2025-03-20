@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/kallu-portfolio/static/css/main.c5539a6c.css",
+    "main.js": "/kallu-portfolio/static/js/main.38c67895.js",
+    "static/media/profile-pic.png": "/kallu-portfolio/static/media/profile-pic.f2c1b5878f006a00dd5a.png",
+    "index.html": "/kallu-portfolio/index.html",
+    "main.c5539a6c.css.map": "/kallu-portfolio/static/css/main.c5539a6c.css.map",
+    "main.38c67895.js.map": "/kallu-portfolio/static/js/main.38c67895.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5539a6c.css",
+    "static/js/main.38c67895.js"
+  ]
+}
