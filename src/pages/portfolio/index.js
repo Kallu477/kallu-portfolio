@@ -23,6 +23,7 @@ export const Portfolio = () => {
           <Col lg="9">
             <h4>UI developer</h4>
             <h5>Blue Space Technologies Inc. <span style={{ fontWeight: 400 }}>Houston, TX.</span></h5>
+            <p style={{ fontWeight: 500 }}>Nov, 2023 - Present</p>
             <p> <span style={{ fontWeight: 600 }}>Description: </span> Blue Space Tech implements outsourcing projects and internal applications as well.
               I’m working on one of the internal portals as a User Interface developer to develop dynamic and single page applications using Angular and react frameworks.</p>
             <p> <span style={{ fontWeight: 600 }}>Job duties: </span> •	I'm inovelved in creating and maintain Single page and responsive web applications
@@ -33,8 +34,9 @@ export const Portfolio = () => {
         </Row>
         <Row>
           <Col lg="9">
-            <h4>UI developer <span style={{ fontWeight: 300 }}>Sep, 2020</span></h4>
-            <h5>Blue Space Technologies Inc. <span style={{ fontWeight: 400 }}>Houston, TX.</span></h5>
+            <h4>UI developer </h4> 
+            <h5>Supple Soft Inc. <span style={{ fontWeight: 400 }}>Gurugram, India.</span></h5>
+            <p style={{ fontWeight: 500 }}>Sep, 2020 - Jun, 2022</p>
             <p> <span style={{ fontWeight: 600 }}>Description: </span> Supple Soft Inc. implements and supports lot of applications.
               I’m working on couple of the internal applications as a User Interface developer to create dynamic and single page applications
               using Angular and react frameworks.</p>
