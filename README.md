@@ -1,12 +1,13 @@
 ### Description
 
-A simple portfolio template for developer/designers built with React. 
+This is Kalyani kongala and designed a simple react portfolio.
+
+link to github page: https://kallu477.github.io/kallu-portfolio/
 
 ### Features
 
 - Fully Responsive
 - Multi-Page Layout
-- Contact Form With EmailJs
 - React-Bootstrap
 - Edit Content From One Place
 
@@ -28,4 +29,4 @@ Modify pages content in  `src/content_option.js`.
 
 ### Thanks
 
-If you like this portfolio template don't forget give it a ⭐ 
+Looking forward to workwith you!!!
