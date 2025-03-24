@@ -23,9 +23,6 @@ Start the server
 
 <pre>npm start</pre>
 
-### More
-
-Modify pages content in  `src/content_option.js`.
 
 ### Thanks
 
