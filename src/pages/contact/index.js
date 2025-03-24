@@ -114,13 +114,13 @@ export const ContactUs = () => {
           </Col>
           <Col lg="7" className="d-flex align-items-center">
             <div className="contact-icons">
-              <a href="https://github.com/yourprofile" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/Kallu477" target="_blank" rel="noopener noreferrer">
                 <FaGithub />
               </a>
-              <a href="https://www.linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.linkedin.com/in/kalyani-kongala-b05439352/" target="_blank" rel="noopener noreferrer">
                 <FaLinkedin />
               </a>
-              <a href="mailto:your-email@gmail.com">
+              <a href="mailto:kalyanierik@gmail.com">
                 <SiGmail />
               </a>
             </div>
