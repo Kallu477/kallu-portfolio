@@ -110,8 +110,6 @@ const contactConfig = {
     YOUR_EMAIL: "kalyanierik@gmail.com",
     YOUR_FONE: "(804) 484-2230",
     description: "Inflicted with a passion for web development and a desire to help others, I worked as a freelancer for a year, handling small projects and helping clients with their UI needs. I am a full-stack developer and have experience in many programming languages and web development tools.",
-    // creat an emailjs.com account 
-    // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
     YOUR_TEMPLATE_ID: "template_id",
     YOUR_USER_ID: "user_id",
@@ -120,7 +118,7 @@ const contactConfig = {
 const socialprofils = {
     github: "https://github.com/Kallu477",
     gmail: "mailto:kalyanierik@gmail.com",
-    linkedin: "https://www.linkedin.com/in/kalyani-kongala-230156357",
+    linkedin: "https://www.linkedin.com/in/kalyani-kongala-b05439352/",
 };
 export {
     meta,
