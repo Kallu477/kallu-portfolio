@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/kallu-portfolio/static/css/main.449a6dfd.css",
-    "main.js": "/kallu-portfolio/static/js/main.efcb6a99.js",
+    "main.js": "/kallu-portfolio/static/js/main.e05a48b0.js",
     "static/media/profile-pic.png": "/kallu-portfolio/static/media/profile-pic.f2c1b5878f006a00dd5a.png",
     "index.html": "/kallu-portfolio/index.html",
     "main.449a6dfd.css.map": "/kallu-portfolio/static/css/main.449a6dfd.css.map",
-    "main.efcb6a99.js.map": "/kallu-portfolio/static/js/main.efcb6a99.js.map"
+    "main.e05a48b0.js.map": "/kallu-portfolio/static/js/main.e05a48b0.js.map"
   },
   "entrypoints": [
     "static/css/main.449a6dfd.css",
-    "static/js/main.efcb6a99.js"
+    "static/js/main.e05a48b0.js"
   ]
 }
