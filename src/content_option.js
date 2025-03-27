@@ -1,7 +1,7 @@
 const logotext = "KALYANI KONGALA";
 const meta = {
     title: "KALYANI KONGALA",
-    description: "I’m Kalyani Kongala data scientist _ Full stack devloper",
+    description: "I’m Kalyani Kongala, Full stack devloper",
 };
 
 const introdata = {
